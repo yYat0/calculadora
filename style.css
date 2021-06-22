@@ -30,9 +30,10 @@ button {
     background-color: rgb(31,31,31);
     color: white;
     border: none;
+    background-image: url(tenortd.gif);
 }
 button:hover {
-    background-color: black;
+    background-color: rgb(36, 81, 99);
 }
 
 #resultado{
